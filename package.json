@@ -1,0 +1,22 @@
+{
+  "name": "Name That Color",
+  "version": "0.0.2",
+  "description": "Simple But Hard Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "akaankshr4j/ntc"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.12.3",
+    "socket.io": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}
