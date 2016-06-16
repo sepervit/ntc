@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
+    "repository": {
     "type": "git",
-    "url": "akaankshr4j/ntc"
-  },
+    "url": "https://github.com/sepervit/ntc"
+  }
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.12.3",
